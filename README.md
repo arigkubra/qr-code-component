@@ -5,8 +5,8 @@
 ## Welcome! 👋
 
 
+[](./screenshot.jpg)
 
-`[](desktop-preview.jpg)`
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
