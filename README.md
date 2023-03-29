@@ -5,7 +5,7 @@
 ## Welcome! 👋
 
 
-[](./screenshot.jpg)
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
